@@ -1,0 +1,33 @@
+a: Anchor, allows you to make text into a link/anchor.
+  attributes: href
+  example: <a href="https://www.lordbyng.net/compsci">A Website</a>
+
+h1: Header 1, makes the text large and bold and puts it on a separate line.
+   attributes: none
+   example: <h1>Hello</h1>
+
+h6: Header 6, same as header 1, except smaller. Header 6 is the smallest size.
+    attributes: none
+	example: <h6>Hello</h6>
+
+img: Image, helps you insert an image.
+    attributes: src
+	example: <img src="doughnuts.jpg"
+
+li: List, puts text on a separate line.
+   attributes: none
+   example: <li>Muffin</li>
+
+ol: Ordered List, puts the text on a separate line and numbers them.
+   attributes: <li>
+
+p: Paragragh, puts the text on a separate line by itself.
+  attributes: none
+  example: <p>blah blah blah blah</p>
+
+ul: Unordered List, puts text on a separate line and bullet points them.
+   attributes: <li>
+   example: <ul>Cake</ul>
+   
+
+	 
