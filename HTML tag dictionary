@@ -29,5 +29,25 @@ ul: Unordered List, puts text on a separate line and bullet points them.
    attributes: <li>
    example: <ul>Cake</ul>
    
+!DOCTYPE: Selects the version of HTML , the html attribute means that you want the most recent version of html.
+         attributes: html
+		 example: <!DOCTYPE>
+
+body: A tag for defining the tag's body.
+     attributes: none
+	 example: <body>memes</body>
+
+head: Things for your browser to think about when looking at your webpage.
+     attributes: none
+	 example: <head> <title>first website</title> </head>
+
+html: Marks the beginning and end of your html code.
+     attributes: none 
+	 example: <html> chicken nuggets </html>
+
+title: Controls the tab name.
+     attributes: none
+	 example: <title> First website </title>
+   
 
 	 
